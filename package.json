@@ -1,0 +1,23 @@
+{
+  "name": "3_build-a-weather-app-with-vanilla-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saraHH1417/Weather_App_With_Vanilla_JS_Using_Api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saraHH1417/Weather_App_With_Vanilla_JS_Using_Api/issues"
+  },
+  "homepage": "https://github.com/saraHH1417/Weather_App_With_Vanilla_JS_Using_Api#readme",
+  "dependencies": {
+    "node-fetch": "^3.0.0"
+  }
+}
